@@ -1,21 +1,41 @@
 body{
-  background-color: #d9cafe;
+  background-color: #ffdacc;
 }
 div{
-  background-color: #b1dd8c;
+  background-color: #EEA990;
+  border-radius: 25px;
 }
 h1{
-color: red;
-  font-size: 50px;
+color: #c27163;
+  font-size: 60px;
+  font-family: 'Fuzzy Bubbles', cursive;
 }
-.PEPO{
-height: 300px;
-  width: 200px;
+.pepo{
+  width: 300px;
+  height: 400px;
+  margin-top: 25px;
+  border: 5px solid ;
+  border-radius: 15px;
+  border-color: #c27163;
+  margin-right: 40px;
 }
 button{
-  font-size: 30px;
+  font-family: 'Fuzzy Bubbles', cursive;
+  font-size: 40px;
+  color: #c18c5d;
+  background-color: #ffd5b0;
+   border-radius: 25px;
+  border-color: #c18c5d;
 }
 footer{
-  background-color: #00fdff;
-  font-size: 25px;
+  background-color: #EEA990;
+  color: #c27163;
+  font-family: 'Fuzzy Bubbles', cursive;
+  font-size: 30px;
+}
+img{
+  width: 400px;
+  height: 400px;
+  margin-left: 50px;
+  margin-bottom: 30px;
 }
